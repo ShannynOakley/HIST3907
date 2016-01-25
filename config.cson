@@ -1,5 +1,6 @@
-$ git config --global user.username ShannynOakley"*":
+$ git config --global user.ShannynOakley
+"*":
   "exception-reporting":
-    userId: "0495fade-80a6-f058-7934-8e77e27ad39d"
+    userId: "ShannynOakley"
   welcome:
     showOnStartup: false
